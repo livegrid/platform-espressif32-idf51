@@ -1,3 +1,15 @@
+# Frozen Mirror: Espressif 32 PlatformIO Platform (IDF 5.1.6 / Arduino 3.0.x)
+
+Frozen preservation mirror of `Jason2866/platform-espressif32` branch `Arduino/IDF5` at commit `f889376` (`2025.03.10`), archived because the upstream `Arduino/IDF5` branch was removed.
+
+Release `v2025.03.10` hosts the required upstream package zips (`framework-arduinoespressif32-all-release_v5.1-7e10045.zip` and `esptool.zip`) so builds remain self-contained and reproducible.
+
+```ini
+platform = https://github.com/livegrid/platform-espressif32-idf51.git#v2025.03.10
+```
+
+---
+
 [![Build_special_firmware](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 
